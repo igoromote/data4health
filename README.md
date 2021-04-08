@@ -9,7 +9,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 > |Nome  | RA | Especialização|
 > |--|--|--|
 > | Igor Mateus Omote  | 169819  | Computação|
-> | Larissa Quintela  | 160343  | Saúde|
+> | Larissa Quintela  | 160343  | Elétrica|
 > | M Vinicius  | 224692  | Saúde|
 > | Nádia  | 187940  | Saúde|
 
