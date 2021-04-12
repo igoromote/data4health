@@ -1,16 +1,16 @@
-# Projeto `Características das cidades brasileiras e efetividade das estratégias adotadas para enfrentamento da epidemia de COVID-19.`
-# Project `Characteristics of Brazilian cities and effectiveness of the strategies adopted to confront the COVID-19 epidemic.`
+# Projeto - `Características das cidades brasileiras e efetividade das estratégias adotadas para enfrentamento da epidemia de COVID-19.`
+# Project - `Characteristics of Brazilian cities and effectiveness of the strategies adopted to confront the COVID-19 epidemic.`
 
 # Apresentação
 
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [*Ciência e Visualização de Dados em Saúde*](https://github.com/datasci4health/home), oferecida no primeiro semestre de 2021, na Unicamp.
 
-> |Nome  | RA | Especialização|
-> |--|--|--|
-> | Igor Mateus Omote  | 169819  | Computação|
-> | Larissa Maria Lago Quintela  | 160343  | Elétrica|
-> | Marcos Vinicius Soares Silva  | 224692  | Saúde|
-> | Nádia Maria Soares Bezerra  | 187940  | Saúde|
+|Nome  | RA | Especialização|
+|--|--|--|
+| Igor Mateus Omote  | 169819  | Computação|
+| Larissa Maria Lago Quintela  | 160343  | Elétrica|
+| Marcos Vinicius Soares Silva  | 224692  | Saúde|
+| Nádia Maria Soares Bezerra  | 187940  | Saúde|
 
 
 # Descrição Resumida do Projeto
