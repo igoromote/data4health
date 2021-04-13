@@ -81,7 +81,22 @@ A pandemia de COVID-19 em curso há mais de um ano tem concentrado preocupaçõe
 
 
 # Bases de Dados
-> Elencar bases de dados candidatas a serem utilizadas no projeto.
+Para responder as perguntas elencadas, as fontes de dados foram divididas em 3 grandes grupos:
+
+## **Grupo 1** - referente ao estado anterior à COVID-19 das cidades brasileiras:
+* [DataSus](http://tabnet.datasus.gov.br/cgi/idb2012/matriz.htm#socio) - indicadores demográficos, socioeconômicos, de mortalidade, fatores de risco e proteção, e de recursos.
+* [IBGE 1](https://dadosgeociencias.ibge.gov.br/portal/sharing/rest/content/items/e537f2bbd43743198f99c77dfc878bff/data) e [IBGE 2](https://dadosgeociencias.ibge.gov.br/portal/apps/webappviewer/index.html?id=67c70e701c624c63a6f1754a8b8bce4a) - Ambos apresentam o estudo de aglomerados subnormais. Isto é, aglomerados populacionais caracterizados, em geral, por um padrão urbanístico irregular, carência de serviços públicos essenciais e localização em áreas com restrição a ocupação. 
+* [IBGE 3](https://dadosgeociencias.ibge.gov.br/portal/apps/webappviewer/index.html?id=be5ba503eead453aaa6e1f318b374b76) - A informação sobre o percentual da população com 60 anos ou mais de idade foi produzida a partir dos dados do Censo Demográfico 2010. 
+* [Trata Brasil](http://www.tratabrasil.org.br/images/estudos/Ranking_saneamento_2021/Relat%C3%B3rio_-_Ranking_Trata_Brasil_2021_v2.pdf) - utiliza a base de dados da SANIS, fonte mais completa sobre o setor de saneamento no Brasil. O sistema reúne informações de prestadores estaduais, regionais e municipais de serviços de acesso à água, coleta e tratamento de esgoto, além de resíduos sólidos. Desta forma, o estudo calcula 12 indicadores diferentes (ver metodologia) e atribui notas, construindo assim um ranking entre os municípios brasileiros avaliando o serviço de saneamento básico.
+
+## **Grupo 2** - Medidas adotadas pelo estado para contenção da COVID-19
+Ainda não foi coletada, mas pretende-se fazer um web crawler nos principais sites de notícias ([G1](https://g1.globo.com/), [Estadão](https://www.estadao.com.br/), [El Pais](https://brasil.elpais.com/), [Carta Capital](https://www.cartacapital.com.br/), [Veja](https://veja.abril.com.br/), [Folha](https://www.folha.uol.com.br/) etc.) para buscar o dado mais granular possível, caso não haja nenhuma informação da cidade, a alternativa é buscar nos sites oficiais de cada um dos governos sobre informações de contenção e extrapolar para a cidade. Tal aproximação é semelhante ao preenchimento de dados vazios com o valor da média ou moda da distribuição.
+
+## **Grupo 3** - referente ao estado das cidades brasileiras durante a pandemia (número de contaminados, mortes, distribuição de respiradores, sintomas leves/graves..)
+* [Coleta manual disponbilizada](https://docs.google.com/spreadsheets/d/1RkovtMc-o7fGdGf5SBR8kYWQQCsTn-7CdACsUgJHLxI/edit#gid=1621510199) - essa planilha foi coletada manualmente por um pesquisador e revisado por outro. 
+* [Repositório do Github](https://github.com/wcota/covid19br) -  estudo anterior que reuniu dados de contaminação e morte no Brasil.
+* [Governo brasileiro](https://dados.gov.br/dataset/distribuicao-de-respiradores#)  lá tem quantos respiradores foram entregues a cada estado em qual data, se soubermos a quantidade de respiradores no momento 0, saberemos quantos respiradores tiveram a cada momento
+
 
 # Metodologia
 > Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas. Para a primeira entrega, descreva de maneira mais genérica que tipo de abordagem seu grupo pretende realizar.
