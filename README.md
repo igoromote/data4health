@@ -50,11 +50,21 @@ O pipeline seguido por este estudo será o KDD presente na figura abaixo. A part
 ![Metodologia Adotada](./reports/figures/metodologia.png)
 
 # Ferramentas
-> Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
+O projeto será feito em [Python 3](https://www.python.org/), junto do [Jupyter Notebook](https://jupyter.org/). Para o tratamento de dados, utilizar-se-á de dataframes suportados pela biblioteca [Pandas](https://pandas.pydata.org/) ou em arrays suportados pela biblioteca [NumPy](https://numpy.org/). Os modelos serão treinados na biblioteca [Scikit-Learn](https://scikit-learn.org/stable/) ou pelo [TensorFlow](https://www.tensorflow.org/).
 
 # Cronograma
-> Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.
+A seguir, uma proposta de cronograma de qual a prioridade em cada semana, vale ressaltar que por ser envolver análises de diferentes bases de dados, que não foram preparados para responder às perguntas de pesquisa, há uma grande incerteza se haverá necessidade de coletar novos dados (de diferentes fontes) durante a execução do projeto; por conta disso, a cada semana poderá haver iterações dentro do cronograma variando a prioridade de cada etapa.
 
+A etapa de DM(Data Mining) foi separada em 2 grandes passos: Análises descritivas e modelos de ML(Machine Learning).
+
+|                             | 18/04 a 24/04  | 25/04 a 01/05 | 02/05 a 08/05 | 09/05 a 15/05 | 16/05 a 22/05 | 23/05 a 29/05 | 30/05 a 05/06 | 06/06 a 12/06 | 13/06 a 19/06 | 20/06 a 26/06 |
+|-----------------------------|:--------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Selection                   | Alta           | Alta          | Baixa         | Baixa         | Baixa         | Baixa         | Baixa         | Baixa         | Baixa         | Baixa         |
+| Transformation              |                |               | Alta          | Alta          | Média         | Média         | Média         | Média         | Baixa         | Baixa         |
+| Data Mining                 |                |               | Baixa         | Média         | Alta          | Alta          | Alta          | Alta          | Média         | Média         |
+| DM - Análises Descritivas   |                |               | Baixa         | Média         | Alta          | Alta          | Média         | Média         | Média         | Média         |
+| DM - Modelos de ML          |                |               |               |               |               |               | Alta          | Alta          | Alta          | Média         |
+| Interpretation / Evaluation |                |               | Média         | Média         | Média         | Alta          | Média         | Alta          | Alta          | Alta          |
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
