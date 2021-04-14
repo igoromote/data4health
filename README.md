@@ -5,12 +5,12 @@
 
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [*Ciência e Visualização de Dados em Saúde*](https://github.com/datasci4health/home), oferecida no primeiro semestre de 2021, na Unicamp.
 
-> |Nome  | RA | Especialização|
-> |--|--|--|
-> | Igor Mateus Omote  | 169819  | Computação|
-> | Larissa Maria Lago Quintela  | 160343  | Elétrica|
-> | Marcos Vinicius Soares Silva  | 224692  | Saúde|
-> | Nádia Maria Soares Bezerra  | 187940  | Saúde|
+|Nome  | RA | Especialização|
+|--|--|--|
+| Igor Mateus Omote  | 169819  | Computação|
+| Larissa Maria Lago Quintela  | 160343  | Elétrica|
+| Marcos Vinicius Soares Silva  | 224692  | Saúde|
+| Nádia Maria Soares Bezerra  | 187940  | Saúde|
 
 
 # Descrição Resumida do Projeto
@@ -18,7 +18,7 @@ A pandemia de COVID-19 em curso há mais de um ano tem concentrado preocupaçõe
 
 (1)https://infograficos.gazetadopovo.com.br/saude/ranking-do-coronavirus-por-paises-mortes-por-milhao/
 
-> Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
+> [Link para vídeo de apresentação](https://drive.google.com/file/d/1cgtKYQ0HazdL1GH1zUqj3C_ZMvQsadIi/view)
 
 # Perguntas de Pesquisa
 * Qual combinação de estratégias de controle da epidemia utilizadas pelo gestor municipal está relacionada com menor número de contaminados e de mortes por COVID-19 nas cidades brasileiras?
