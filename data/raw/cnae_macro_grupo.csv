@@ -1,0 +1,309 @@
+﻿Item;"CNAE
+(Especializado)";CNAE (7 digitos);Descrição da Atividade;Risco Sanitário (RS);SEGMENTO DA ATIVIDADE ECONÔMICA;SUBGRUPO
+1;89240301;89240301;Refino e outros tratamentos do sal;Alto Risco;PRODUTOS;ALIMENTOS
+2;103170001;1031700;Fabricação de conservas de frutas;Risco Condicionado;PRODUTOS;ALIMENTOS
+3;103250100;1032501;Fabricação de conservas de palmito;Alto Risco;PRODUTOS;ALIMENTOS
+4;103259900;1032599;"Fabricação de conservas de legumes e outros vegetais,
+exceto palmito";Risco Condicionado;PRODUTOS;ALIMENTOS
+5;104140000;1041400;"Fabricação de óleos vegetais em bruto, exceto óleo de
+milho";Alto Risco;PRODUTOS;ALIMENTOS
+6;104220001;1042200;"Fabricação de óleos vegetais refinados, exceto óleo de
+milho";Alto Risco;PRODUTOS;ALIMENTOS
+8;104310002;1043100;Fabricação de margarina e outras gorduras vegetais comestíveis e de óleos não- comestíveis de animais;Baixo Risco B;PRODUTOS;ALIMENTOS
+9;105380000;1053800;Fabricação de sorvetes e outros gelados comestíveis;Alto Risco;PRODUTOS;ALIMENTOS
+10;106190100;1061901;Beneficiamento de arroz;"Risco
+Condicionado";PRODUTOS;ALIMENTOS
+11;106190200;1061902;Fabricação de produtos do arroz;Alto Risco;PRODUTOS;ALIMENTOS
+12;106270000;1062700;Moagem de trigo e fabricação de derivados;Alto Risco;PRODUTOS;ALIMENTOS
+13;106350000;1063500;Fabricação de farinha de mandioca e derivados;Risco Condicionado;PRODUTOS;ALIMENTOS
+14;106430000;1064300;Fabricação de farinha de milho e derivados, exceto óleos de milho;Risco Condicionado;PRODUTOS;ALIMENTOS
+15;106510100;1065101;Fabricação de amidos e féculas de vegetais;Risco Condicionado;PRODUTOS;ALIMENTOS
+16;106510200;1065102;Fabricação de óleo de milho em bruto;Alto Risco;PRODUTOS;ALIMENTOS
+17;106510300;1065103;Fabricação de óleo de milho refinado;Alto Risco;PRODUTOS;ALIMENTOS
+18;106940001;1069400;"Moagem e fabricação de produtos de origem vegetal não especificados
+anteriormente";Risco Condicionado;PRODUTOS;ALIMENTOS
+20;107160000;1071600;"Fabricação de açúcar em
+bruto";"Risco
+Condicionado";PRODUTOS;ALIMENTOS
+21;107240100;1072401;Fabricação de açúcar de cana refinado;Alto Risco;PRODUTOS;ALIMENTOS
+22;107240200;1072402;"Fabricação de açúcar de
+cereais (dextrose) e de beterraba";Alto Risco;PRODUTOS;ALIMENTOS
+23;108130100;1081301;Beneficiamento de café;Risco Condicionado;PRODUTOS;ALIMENTOS
+24;108130200;1081302;Torrefação e moagem de café;Alto Risco;PRODUTOS;ALIMENTOS
+25;108210000;1082100;Fabricação de produtos à base de café;Alto Risco;PRODUTOS;ALIMENTOS
+26;109110100;1091101;"Fabricação de produtos de
+panificação industrial";Alto Risco;PRODUTOS;ALIMENTOS
+27;109110200;1091102;Fabricação de produtos de padaria e confeitaria com predominância de produção própria;Baixo Risco B;PRODUTOS;ALIMENTOS
+28;109290000;1092900;Fabricação de biscoitos e bolachas;Risco Condicionado;PRODUTOS;ALIMENTOS
+29;109370100;1093701;"Fabricação de produtos derivados do cacau e de
+chocolates";Risco Condicionado;PRODUTOS;ALIMENTOS
+30;109370200;1093702;Fabricação de frutas cristalizadas, balas e semelhantes;Risco Condicionado;PRODUTOS;ALIMENTOS
+31;109450000;1094500;"Fabricação de massas
+alimentícias";"Risco
+Condicionado";PRODUTOS;ALIMENTOS
+32;109530000;1095300;Fabricação de especiarias, molhos, temperos e condimentos;Risco Condicionado;PRODUTOS;ALIMENTOS
+33;109610000;1096100;Fabricação de alimentos e pratos prontos;Risco Condicionado;PRODUTOS;ALIMENTOS
+34;109960200;1099602;Fabricação de pós alimentícios;Alto Risco;PRODUTOS;ALIMENTOS
+35;109960300;1099603;Fabricação de fermentos e leveduras;Alto Risco;PRODUTOS;ALIMENTOS
+36;109960402;1099604;Fabricação de gelo comum destinado ao consumo humano;Alto Risco;PRODUTOS;ALIMENTOS
+37;109960501;1099605;Fabricação de produtos para infusão (chá, mate, etc.);Risco Condicionado;PRODUTOS;ALIMENTOS
+39;109960600;1099606;Fabricação de adoçantes naturais e artificiais;Alto Risco;PRODUTOS;ALIMENTOS
+40;109960700;1099607;Fabricação de alimentos dietéticos e complementos alimentares;Alto Risco;PRODUTOS;ALIMENTOS
+41;109969901;1099699;Beneficiamento de guaraná (em bastão, em pó, etc.);Alto Risco;PRODUTOS;ALIMENTOS
+43;112160000;1121600;Fabricação de águas envasadas;Alto Risco;PRODUTOS;ALIMENTOS
+44;112240300;1122403;"Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos
+de frutas";Risco Condicionado;PRODUTOS;ALIMENTOS
+45;112240400;1122404;Fabricação de bebidas isotônicas;Alto Risco;PRODUTOS;ALIMENTOS
+46;112249900;1122499;Fabricação de outras bebidas não alcoólicas não especificadas anteriormente;Alto Risco;PRODUTOS;ALIMENTOS
+47;173110002;1731100;"Fabricação de embalagens de papel destinadas a alimentos e produtos
+esterilizado";Alto Risco;PRODUTOS;DIVERSOS
+48;173200002;1732000;Fabricação de embalagens de cartolina e papel-cartão destinadas a alimentos e ou produtos para saúde;Alto Risco;PRODUTOS;DIVERSOS
+49;173380003;1733800;"Fabricação de chapas de papelão ondulado destinadas a alimentos e ou produtos
+para saúde";Alto Risco;PRODUTOS;DIVERSOS
+51;174270100;1742701;Fabricação de fraldas descartáveis;Alto Risco;PRODUTOS;PPS
+52;174270200;1742702;Fabricação de absorventes higiênicos;Alto Risco;PRODUTOS;PPS
+53;201420002;2014200;"Fabricação de gases industriais destinados a fins
+terapêuticos";Alto Risco;PRODUTOS;MEDICAMENTOS
+54;205250000;2052500;Fabricação de desinfetantes domissanitários;Alto Risco;PRODUTOS;SANEANTES
+55;206140000;2061400;Fabricação de sabões e detergentes sintéticos;Alto Risco;PRODUTOS;SANEANTES
+56;206220000;2062200;Fabricação de produtos de limpeza e polimento;Alto Risco;PRODUTOS;SANEANTES
+57;206310000;2063100;Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal;Alto Risco;PRODUTOS;COSMÉTICOS
+58;209320002;2093200;"Fabricação de compostos químicos, orgânicos ou não, utilizados como auxiliares de processo ou de performance
+de produtos alimentícios";Alto Risco;PRODUTOS;ALIMENTOS
+60;211060000;2110600;Fabricação de produtos farmoquímicos;Alto Risco;PRODUTOS;MEDICAMENTOS
+61;212110100;2121101;Fabricação de medicamentos alopáticos para uso humano;Alto Risco;PRODUTOS;MEDICAMENTOS
+62;212110200;2121102;Fabricação de medicamentos homeopáticos para uso humano;Alto Risco;PRODUTOS;MEDICAMENTOS
+63;212110300;2121103;Fabricação de medicamentos fitoterápicos para uso humano;Alto Risco;PRODUTOS;MEDICAMENTOS
+64;212380000;2123800;Fabricação de preparações farmacêuticas;Alto Risco;PRODUTOS;MEDICAMENTOS
+65;221960002;2219600;"Fabricação de artefatos de borracha para uso  doméstico, pessoal, higiênico e farmacêutico (preservativos, bicos para
+mamadeira, chupetas, etc.)";Alto Risco;PRODUTOS;PPS
+66;222260002;2222600;"Fabricação de embalagens de material plástico destinados a alimentos e diagnósticos para uso em
+procedimentos em saúde";Alto Risco;PRODUTOS;DIVERSOS
+67;231250002;2312500;Fabricação de embalagens de vidro para laboratórios farmacêuticos, produtos alimentícios e bebidas;Alto Risco;PRODUTOS;DIVERSOS
+68;234190002;2341900;Fabricação de produtos cerâmicos refratários destinados a alimentos;Alto Risco;PRODUTOS;ALIMENTOS
+69;234949902;2349499;"Fabricação de produtos cerâmicos não-refratários não especificados anteriormente para
+embalagens de alimentos";Alto Risco;PRODUTOS;ALIMENTOS
+70;259180002;2591800;"Fabricação de latas, tubos e bisnagas para alimentos, bebidas e produtos químicos; embalagens de aerossóis";Alto Risco;PRODUTOS;DIVERSOS
+71;266040000;2660400;"Fabricação de aparelhos eletromédicos e
+eletroterapêuticos e equipamentos de irradiação";Alto Risco;PRODUTOS;PPS
+72;282919902;2829199;Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios de interesse à saúde;Alto Risco;PRODUTOS;PPS
+73;309200002;3092000;"Fabricação de bicicletas e triciclos não-motorizados,
+peças e acessórios - produtos para saúde";Alto Risco;PRODUTOS;PPS
+74;325070100;3250701;"Fabricação de instrumentos não-eletrônicos e utensílios para uso médico, cirúrgico,
+odontológico e de laboratório";Alto Risco;PRODUTOS;PPS
+75;325070200;3250702;Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório;Alto Risco;PRODUTOS;PPS
+76;325070300;3250703;Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda;Alto Risco;PRODUTOS;PPS
+77;325070400;3250704;Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda;Alto Risco;PRODUTOS;PPS
+78;325070500;3250705;Fabricação de materiais para medicina e odontologia;Alto Risco;PRODUTOS;PPS
+79;325070600;3250706;Serviços de prótese dentária;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+80;325070702;3250707;"Fabricação de artigos ópticos
+- produto para saúde";Alto Risco;PRODUTOS;PPS
+81;325070900;3250709;Serviço de laboratório óptico;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+82;329140002;3291400;"Fabricação de escovas e
+pinceis (para unhas, cabelos, dentes, barba, etc.)";Alto Risco;PRODUTOS;PPS
+83;329220202;3292202;"Fabricação de artefatos para uso odonto, médico-
+hospitalar (gorros, máscaras protetoras, aventais, etc.)";Alto Risco;PRODUTOS;PPS
+84;329900602;3299006;Fabricação de velas, inclusive decorativas, sebo e/ou estearina utilizadas em cosméticos ou saneantes;Alto Risco;PRODUTOS;DIVERSOS
+85;360060200;3600602;Distribuição de água por caminhões;Alto Risco;PRODUTOS;DIVERSOS
+86;370290000;3702900;Atividades relacionadas a esgoto, exceto a gestão de redes;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+87;462140000;4621400;Comércio atacadista de café em grão;Baixo Risco B;PRODUTOS;ALIMENTOS
+88;462220000;4622200;Comércio atacadista de soja;Baixo Risco B;PRODUTOS;ALIMENTOS
+89;462310500;4623105;"Comércio atacadista de
+cacau";Baixo Risco B;PRODUTOS;ALIMENTOS
+90;463110000;4631100;Comércio atacadista de leite e laticínios;Baixo Risco B;PRODUTOS;ALIMENTOS
+91;463200100;4632001;Comércio atacadista de cereais e leguminosas beneficiados;Baixo Risco B;PRODUTOS;ALIMENTOS
+92;463200200;4632002;"Comércio atacadista de
+farinhas, amidos e féculas";Baixo Risco B;PRODUTOS;ALIMENTOS
+93;463200300;4632003;"Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e
+acondicionamento associada";Risco Condicionado;PRODUTOS;ALIMENTOS
+94;463380100;4633801;Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos;Baixo Risco B;PRODUTOS;ALIMENTOS
+95;463380200;4633802;Comércio atacadista de aves vivas e ovos;Baixo Risco B;PRODUTOS;ALIMENTOS
+96;463460100;4634601;Comércio atacadista de carnes bovinas e suínas e derivados;Baixo Risco B;PRODUTOS;ALIMENTOS
+97;463460200;4634602;Comércio atacadista de aves abatidas e derivados;Baixo Risco B;PRODUTOS;ALIMENTOS
+98;463460300;4634603;Comércio atacadista de pescados e frutos do mar;Baixo Risco B;PRODUTOS;ALIMENTOS
+99;463469900;4634699;Comércio atacadista de carnes e derivados de outros animais;Baixo Risco B;PRODUTOS;ALIMENTOS
+100;463540100;4635401;Comércio atacadista de água mineral;Baixo Risco B;PRODUTOS;ALIMENTOS
+101;463540200;4635402;Comércio atacadista de cerveja, chope e refrigerante;Baixo Risco B;PRODUTOS;ALIMENTOS
+102;463540300;4635403;"Comércio atacadista de bebidas com atividade de
+fracionamento e acondicionamento associada";Risco Condicionado;PRODUTOS;ALIMENTOS
+103;463549900;4635499;Comércio atacadista de bebidas não especificadas anteriormente;Baixo Risco B;PRODUTOS;ALIMENTOS
+104;463710100;4637101;Comércio atacadista de café torrado, moído e solúvel;Baixo Risco B;PRODUTOS;ALIMENTOS
+105;463710200;4637102;Comércio atacadista de açúcar;Baixo Risco B;PRODUTOS;ALIMENTOS
+106;463710300;4637103;Comércio atacadista de óleos e gorduras;Baixo Risco B;PRODUTOS;ALIMENTOS
+107;463710400;4637104;Comércio atacadista de pães, bolos, biscoitos e similares;Baixo Risco B;PRODUTOS;ALIMENTOS
+108;463710500;4637105;Comércio atacadista de massas alimentícias;Baixo Risco B;PRODUTOS;ALIMENTOS
+109;463710600;4637106;Comércio atacadista de sorvetes;Baixo Risco B;PRODUTOS;ALIMENTOS
+110;463710700;4637107;"Comércio atacadista de chocolates, confeitos, balas,
+bombons e semelhantes";Baixo Risco B;PRODUTOS;ALIMENTOS
+111;463719900;4637199;Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente;Baixo Risco B;PRODUTOS;ALIMENTOS
+112;463970100;4639701;Comércio atacadista de produtos alimentícios em geral;Baixo Risco B;PRODUTOS;ALIMENTOS
+113;463970200;4639702;"Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e
+acondicionamento associada";Alto Risco;PRODUTOS;ALIMENTOS
+114;464430101;4644301;"Comércio atacadista de
+medicamentos e drogas de uso humano";Alto Risco;PRODUTOS;MEDICAMENTOS
+116;464510100;4645101;"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico,
+hospitalar e de laboratórios";Alto Risco;PRODUTOS;PPS
+117;464510200;4645102;Comércio atacadista de próteses e artigos de ortopedia;Alto Risco;PRODUTOS;PPS
+118;464510300;4645103;Comércio atacadista de produtos odontológicos;Alto Risco;PRODUTOS;PPS
+119;464600100;4646001;"Comércio atacadista de cosméticos e produtos de
+perfumaria";Alto Risco;PRODUTOS;COSMÉTICOS
+120;464600200;4646002;Comércio atacadista de produtos de higiene pessoal;Alto Risco;PRODUTOS;COSMÉTICOS
+121;464940800;4649408;Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar;Alto Risco;PRODUTOS;SANEANTES
+122;464940900;4649409;"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e
+acondicionamento associada";Alto Risco;PRODUTOS;SANEANTES
+123;466480002;4664800;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças compreendidos de produtos
+para saúde";Baixo Risco B;PRODUTOS;PPS
+124;469150000;4691500;"Comércio atacadista de mercadorias em geral, com
+predominância de produtos alimentícios";Baixo Risco B;PRODUTOS;ALIMENTOS
+125;471130100;4711301;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados;Baixo Risco B;PRODUTOS;ALIMENTOS
+126;471130200;4711302;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados;Baixo Risco B;PRODUTOS;ALIMENTOS
+127;471210000;4712100;"Comércio varejista de mercadorias em geral, com predominância de produtos
+alimentícios - minimercados, mercearias e armazéns";Baixo Risco B;PRODUTOS;ALIMENTOS
+128;472110200;4721102;Padaria e confeitaria com predominância de revenda;Baixo Risco B;PRODUTOS;ALIMENTOS
+129;472110300;4721103;Comércio varejista de laticínios e frios;Baixo Risco B;PRODUTOS;ALIMENTOS
+130;472110400;4721104;Comércio varejista de doces, balas, bombons e semelhantes;Baixo Risco B;PRODUTOS;ALIMENTOS
+131;472290100;4722901;"Comércio varejista de carnes
+- açougues";Baixo Risco B;PRODUTOS;ALIMENTOS
+132;472290200;4722902;Peixaria;Baixo Risco B;PRODUTOS;ALIMENTOS
+133;472370000;4723700;Comércio varejista de bebidas;Baixo Risco B;PRODUTOS;ALIMENTOS
+134;472450000;4724500;Comércio varejista de hortifrutigranjeiros;Baixo Risco B;PRODUTOS;ALIMENTOS
+135;472960200;4729602;Comércio varejista de mercadorias em lojas de conveniência;Baixo Risco B;PRODUTOS;ALIMENTOS
+136;472969900;4729699;"Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não
+especificados anteriormente";Baixo Risco B;PRODUTOS;ALIMENTOS
+137;477170100;4771701;"Comércio varejista de produtos farmacêuticos, sem
+manipulação de fórmulas";Alto Risco;PRODUTOS;MEDICAMENTOS
+138;477170200;4771702;Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas;Alto Risco;PRODUTOS;MEDICAMENTOS
+139;477170300;4771703;Comércio varejista de produtos farmacêuticos homeopáticos;Alto Risco;PRODUTOS;MEDICAMENTOS
+140;477250000;4772500;Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal;Baixo Risco B;PRODUTOS;COSMÉTICOS
+141;477330000;4773300;"Comércio varejista de artigos
+médicos e ortopédicos";Baixo Risco B;PRODUTOS;PPS
+142;477410000;4774100;Comércio varejista de artigos de óptica;Baixo Risco B;PRODUTOS;PPS
+143;478900500;4789005;Comércio varejista de produtos saneantes domissanitários;Baixo Risco B;PRODUTOS;SANEANTES
+144;478909999;4789099;Comércio varejista de outros produtos não especificados anteriormente;Baixo Risco B;PRODUTOS;DIVERSOS
+145;493020101;4930201;Transporte rodoviário de medicamentos não controlados, municipal;Alto Risco;PRODUTOS;MEDICAMENTOS
+148;493020202;4930202;Transporte rodoviária de medicamentos não controlados, intermunicipal, interestadual e internacional;Alto Risco;PRODUTOS;MEDICAMENTOS
+151;521170102;5211701;Armazéns gerais - emissão de warrant - Interesse sanitário;Baixo Risco B;PRODUTOS;DIVERSOS
+152;521179902;5211799;"Depósitos de mercadorias para terceiros, exceto
+armazéns gerais e guarda- móveis - Interesse sanitário";Baixo Risco B;PRODUTOS;DIVERSOS
+153;551080101;5510801;Hotéis;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+155;551080200;5510802;Apart-hotéis;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+156;551080300;5510803;Motéis;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+157;559060100;5590601;"Albergues, exceto
+assistenciais";Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+158;559060300;5590603;Pensões (alojamento);Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+159;559069900;5590699;Outros alojamentos não especificados anteriormente;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+160;561120101;5611201;"Restaurantes e similares com fornecimento de música
+(uso de som amplificado)";Baixo Risco B;PRODUTOS;ALIMENTOS
+163;561120300;5611203;"Lanchonetes, casas de chá,
+de sucos e similares";Baixo Risco B;PRODUTOS;ALIMENTOS
+164;561120400;5611204;Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento;Baixo Risco B;PRODUTOS;ALIMENTOS
+165;561120501;5611205;Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento (uso de som amplificado);Baixo Risco B;PRODUTOS;ALIMENTOS
+167;561210000;5612100;Serviços ambulantes de alimentação;Baixo Risco B;PRODUTOS;ALIMENTOS
+168;562010100;5620101;Fornecimento de alimentos preparados preponderantemente para empresas;Alto Risco;PRODUTOS;ALIMENTOS
+169;562010200;5620102;"Serviços de alimentação para eventos e recepções -
+bufê";Baixo Risco B;PRODUTOS;ALIMENTOS
+170;562010300;5620103;Cantinas - serviços de alimentação privativos;Baixo Risco B;PRODUTOS;ALIMENTOS
+171;562010400;5620104;"Fornecimento de alimentos preparados
+preponderantemente para consumo domiciliar";Baixo Risco B;PRODUTOS;ALIMENTOS
+172;620310002;6203100;"Desenvolvimento de programas de computador não-customizáveis destiandos a tratamento para
+saúde";Alto Risco;PRODUTOS;PPS
+175;712010002;7120100;Testes e análises técnicas - Sujeita vigilância sanitária;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+176;750010001;7500100;Atividades veterinárias;"Risco
+Condicionado";SERVIÇOS;INTERESSE Á SAÚDE
+181;772920300;7729203;Aluguel de material médico;Baixo Risco B;PRODUTOS;PPS
+182;773900201;7739002;"Aluguel de equipamentos científicos, médicos e
+hospitalares, sem operador";Alto Risco;PRODUTOS;PPS
+184;812220000;8122200;Imunização e controle de pragas urbanas;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+185;812900001;8129000;"Serviços de limpeza e
+tratamento de piscinas";"Risco
+Condicionado";SERVIÇOS;INTERESSE Á SAÚDE
+188;829200000;8292000;Envasamento e empacotamento sob contrato;Risco Condicionado;PRODUTOS;DIVERSOS
+189;851120000;8511200;Educação infantil - creche;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+190;851210000;8512100;"Educação infantil - pré-
+escola";Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+191;851390000;8513900;Ensino fundamental;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+192;859110000;8591100;Ensino de esportes;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+193;859969900;8599699;Outras atividades de ensino não especificadas anteriormente;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+194;861010101;8610101;"Atividades de atendimento hospitalar, exceto pronto-
+socorro e unidades para atendimento a urgências";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+197;861010200;8610102;"Atividades de atendimento em pronto-socorro e
+unidades hospitalares para atendimento a urgências";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+198;862160100;8621601;UTI móvel;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+199;862160200;8621602;Serviços móveis de atendimento a urgências, exceto por UTI móvel;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+200;862240000;8622400;"Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a
+urgências";Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+201;863050100;8630501;"Atividade médica ambulatorial com recursos para realização de
+procedimentos cirúrgicos";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+202;863050200;8630502;"Atividade médica ambulatorial com recursos para realização de exames
+complementares";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+203;863050300;8630503;Atividade médica ambulatorial restrita a consultas;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+204;863050400;8630504;Atividade odontológica;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+205;863050600;8630506;Serviços de vacinação e imunização humana;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+206;863050700;8630507;"Atividades de reprodução
+humana assistida";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+207;863059900;8630599;Atividades de atenção ambulatorial não especificadas anteriormente;Risco Condicionado;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+208;864020100;8640201;Laboratórios de anatomia patológica e citológica;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+209;864020200;8640202;Laboratórios clínicos;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+210;864020300;8640203;Serviços de diálise e nefrologia;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+211;864020400;8640204;Serviços de tomografia;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+212;864020500;8640205;Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+213;864020600;8640206;Serviços de ressonância magnética;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+214;864020700;8640207;"Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto
+ressonância magnética";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+215;864020800;8640208;Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+216;864020900;8640209;Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+217;864021000;8640210;Serviços de quimioterapia;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+218;864021100;8640211;Serviços de radioterapia;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+219;864021200;8640212;Serviços de hemoterapia;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+220;864021300;8640213;Serviços de litotripsia;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+221;864021401;8640214;"Serviços de bancos de sangue, leite, pele, olhos, óvulos, sêmen, células e
+tecidos humanos";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+223;864029900;8640299;Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+224;865000100;8650001;Atividades de enfermagem;Risco Condicionado;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+225;865000200;8650002;Atividades de profissionais da nutrição;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+226;865000301;8650003;Atividades de psicologia;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+228;865000400;8650004;Atividades de fisioterapia;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+229;865000500;8650005;Atividades de terapia ocupacional;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+230;865000600;8650006;Atividades de fonoaudiologia;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+231;865000700;8650007;Atividades de terapia de nutrição enteral e parenteral;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+232;865009901;8650099;Serviços de instrumentação cirúrgica;Risco Condicionado;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+236;869090100;8690901;"Atividades de práticas integrativas e
+complementares em saúde humana";Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+237;869090200;8690902;"Atividades de bancos de leite
+humano";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+238;869090300;8690903;Atividades de acupuntura;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+239;869090400;8690904;Atividades de podologia;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+240;869099999;8690999;"Outras atividades de atenção
+à saúde humana não especificadas anteriormente";Risco Condicionado;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+241;871150101;8711501;Clínicas e residências geriátricas;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+243;871150200;8711502;Instituições de longa permanência para idosos;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+244;871150301;8711503;"Atividades de assistência a deficientes físicos,
+imunodeprimidos e convalescentes";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+246;871150400;8711504;Centros de apoio a pacientes com câncer e com AIDS;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+247;871150500;8711505;Condomínios residenciais para idosos;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+248;871230000;8712300;Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio;Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+249;872040100;8720401;Atividades de centros de assistência psicossocial;Baixo Risco B;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+250;872049900;8720499;"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química e grupos similares
+não especificadas anteriormente";Alto Risco;SERVIÇOS;ASSISTÊNCIA À SAÚDE
+251;873010100;8730101;Orfanatos;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+252;873019900;8730199;Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+253;880060000;8800600;Serviços de assistência social sem alojamento;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+254;931230000;9312300;"Clubes sociais, esportivos e
+similares";Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+255;931310000;9313100;Atividades de condicionamento físico;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+256;932120000;9321200;Parques de diversão e parques temáticos;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+257;960170102;9601701;"Lavanderias que processam artigos de estabelecimentos
+de interesse sanitário";Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+258;960250100;9602501;Cabeleireiros, manicure e pedicure;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+259;960250201;9602502;Atividades de estética e outros serviços de cuidados com a beleza;Risco Condicionado;SERVIÇOS;INTERESSE Á SAÚDE
+261;960330100;9603301;Gestão e manutenção de cemitérios;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+262;960330200;9603302;Serviços de cremação;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+263;960330300;9603303;Serviços de sepultamento;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+264;960330400;9603304;Serviços de funerárias;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+265;960330500;9603305;Serviços de somato conservação;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+266;960339900;9603399;"Atividades funerárias e serviços relacionados não
+especificados anteriormente";Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+267;960920500;9609205;Atividades de sauna e banhos;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+268;960920600;9609206;Serviços de tatuagem e colocação de piercing;Alto Risco;SERVIÇOS;INTERESSE Á SAÚDE
+269;960920700;9609207;Alojamento de animais domésticos;Baixo Risco B;SERVIÇOS;INTERESSE Á SAÚDE
+270;960929999;9609299;Outras atividades de serviços pessoais não especificadas anteriormente;Risco Condicionado;SERVIÇOS;INTERESSE Á SAÚDE
